@@ -1,0 +1,25 @@
+.player-align {
+  margin-left: 14.5rem;
+  margin-top: 0.8rem;
+}
+.song {
+  color: white;
+  margin-top: 0.7rem;
+  padding: 0px;
+  height: 1.2rem
+  }
+.album {
+  color: rgb(170, 169, 169);
+font-size: 0.7rem;
+
+}
+.text-container{
+  margin-left: 1rem;
+}
+.icon {
+  color: green;
+  font-size: 1.1rem;
+  display: flex;
+  align-items: center;
+  margin-left: 1rem;
+}
